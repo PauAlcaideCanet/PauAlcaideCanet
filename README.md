@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pau</h1>
 <h3 align="center">Computer Engineer @ UPF</h3>
 
-- 📫 How to reach me **pau.alcaide@gmail.com**
+Software engineer with a solid computer science foundation, interested in clean code, system design, and learning new technologies.
+
+📫 How to reach me **pau.alcaide@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
