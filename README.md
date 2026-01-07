@@ -13,7 +13,7 @@
 <h3 align="left">Preferred Languages</h3>
 
 
-<table style="width: 100%; table-layout: fixed;">
+<table style="width: 100%; table-layout: fixed;margin-left: 10%;">
   <tr>
     <td align="center" style="padding: 20px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" /><br>
