@@ -42,10 +42,8 @@
   </tr>
 </table>
 
-###
 
-<br clear="both">
-
+<h3 align="left">Last Contributions</h3>
 <img src="https://raw.githubusercontent.com/PauAlcaideCanet/PauAlcaideCanet/output/snake.svg" alt="Snake animation" />
 
 ###
